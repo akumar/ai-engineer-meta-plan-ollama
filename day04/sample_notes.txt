@@ -1,0 +1,6 @@
+I am Aanand Kumar, learning AI Engineering in Noida.
+My skills: Python basics, learning Ollama and RAG.
+My goal: Build 5 portfolio projects in 90 days.
+My project: ai-engineer-meta-plan-ollama on GitHub.
+Current focus: File Q&A bots and prompt engineering.
+Strengths: Consistent, curious, hands-on learner.
